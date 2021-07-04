@@ -14,8 +14,6 @@ art kit
 # Scenario ? 
 plutôt dark fantasy isekai, ou isekai SF
 
-- personnage principal meurt, et se retrouve dans un monde parallèle
-
 - concept personnage surpuissant qui se lance des défis, ou qui a une condition
   qui le pénalise dans ses combats.
 
@@ -57,6 +55,7 @@ Quelles sont ses ambitions ? Simplement le pouvoir ?
 Comment le joueur le fait évoluer ? Choix binaire entre le bien et le mal
 
 # Idées supplémentaires
+
 - Une faction de hackers black hat qui triche dans le jeu, pour s'octroyer
   puissance, argent, terres...
 
@@ -73,6 +72,5 @@ Comment le joueur le fait évoluer ? Choix binaire entre le bien et le mal
   ou a des habitudes mauvaises (rechute dans la drogue, rechute de cancer,
   etc...). 
 
-  dark-fantasy, cyber-punk et utopie/dystopie)
 # musique & sfx stock lol ??
 stock
