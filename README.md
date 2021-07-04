@@ -20,9 +20,9 @@ plutôt dark fantasy isekai, ou isekai SF
 	Monde futuriste, où l'humanité a résolu tous ses problèmes. Tout le monde à
 accès à l'eau potable et à la nourriture en quantité abondante. L'illettrisme a
 disparu, même dans les régions les plus reculés de la planète, et plus personne
-ne tombe malade. Toute la production agricole et industrielle est réalisé par
+ne tombe malade. Toute la production agricole et industrielle est réalisée par
 des machines intelligentes et parfaitement autonomes (elles se réparent d'elles
-mêmes). La Terre est devenu le meilleur des mondes, au point où personne n'a
+mêmes. La Terre est devenu le meilleur des mondes, au point où personne n'a
 plus besoin de travailler, tout le monde est égaux si bien que les
 individualités s'estompent et ne subsistent que dans les consciences. 
 	Cependant l'humanité s'ennuie, privé de son instinct primitif et d'objectif
@@ -53,8 +53,8 @@ plus tardivement) ?
 ## Questions
 Quelles sont ses ambitions ? Simplement le pouvoir ? 
 Comment le joueur le fait évoluer ? Choix binaire entre le bien et le mal.
-Le joueur a entendu de la part des gens de son entourage (collègues, amis) que Afturfall donnait des possibilités à chacun de vivre sa vie comme ils l'entendaient en partant de rien et en construisant sa nouvelle "vie" [partie avec l'amour de la femme blablabla]. Il décide donc de faire en sorte de vouloir commencer une vie en ajoutant à son personnage des caractéristiques physique ou intellectuelle plus grande qu'un joueur lambda qui se connectant au jeu. En y injectant des lignes de code informatique dans son propre corps afin de modifier ses stats lors de sa première connexion dans le jeu. Probleme : Le système de sécurité de Afturfall détècte un problème lors de la connexion neuronnal aux serveurs et décide de gérer ça mais ne peut en aucun cas endommager l'hôte, il décide alors de modifier le code de connexion du héros tout en conservant l'intégrité physique et mental du joueur se connectant, ce qui provoqua une vague d'inombrable petit bug. 
-Le héros possède maintenant des caractéristiques hors du commun, cependant il ne peut pas les utiliser à pleine puissance, le système a eu la mrveilleuse idée de faire en sorte qu'avant chaque utilisation de ses capacités une contrepartie à l'apparence d'un bug apparaissait.
+Le joueur a entendu de la part des gens de son entourage (collègues, amis) que Afturfall donnait des possibilités à chacun de vivre sa vie comme ils l'entendaient en partant de rien et en construisant sa nouvelle "vie" [partie avec l'amour de la femme blablabla]. Il décide donc de faire en sorte de vouloir commencer une vie en ajoutant à son personnage des caractéristiques physique ou intellectuelle plus grande qu'un joueur lambda qui se connectant au jeu. En y injectant des lignes de code informatique dans son propre corps afin de modifier ses stats lors de sa première connexion dans le jeu. Probleme : Le système de sécurité de Afturfall détècte un problème lors de la connexion neuronnal aux serveurs et décide de gérer ça mais ne peut en aucun cas endommager l'hôte, il décide alors de modifier le code de connexion du héros tout en conservant l'intégrité physique et mental du joueur se connectant, ce qui provoque une vague d'inombrable petit bug. 
+Le héros possède maintenant des caractéristiques hors du commun, cependant il ne peut pas les utiliser à pleine puissance, le système a eu la merveilleuse idée de faire en sorte qu'avant chaque utilisation de ses capacités une contrepartie à l'apparence d'un bug apparait.
 
 # Idées supplémentaires
 
@@ -69,7 +69,7 @@ Le héros possède maintenant des caractéristiques hors du commun, cependant il
 
 # Nom de notre jeu
 
-- Relapse ou sa traduction islandaise Afturfall (qui peut être le nom du monde
+- Relapse ou sa traduction Islandaise Afturfall (qui peut être le nom du monde
   virtuel aussi). Relapse signifie rechute en Français, retour à une situation
   ou a des habitudes mauvaises (rechute dans la drogue, rechute de cancer,
   etc...). 
