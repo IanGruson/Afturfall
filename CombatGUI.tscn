@@ -1,0 +1,76 @@
+[gd_scene format=2]
+
+[node name="CombatGUI" type="MarginContainer"]
+anchor_top = 1.0
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -44.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="."]
+margin_right = 1024.0
+margin_bottom = 44.0
+
+[node name="Stats" type="HBoxContainer" parent="HBoxContainer"]
+margin_right = 66.0
+margin_bottom = 44.0
+
+[node name="Stats title" type="VBoxContainer" parent="HBoxContainer/Stats"]
+margin_right = 46.0
+margin_bottom = 44.0
+
+[node name="Stats label" type="Label" parent="HBoxContainer/Stats/Stats title"]
+margin_right = 46.0
+margin_bottom = 31.0
+text = "Hp : 	
+Mana : "
+
+[node name="Stat Values" type="VBoxContainer" parent="HBoxContainer/Stats"]
+margin_left = 50.0
+margin_right = 66.0
+margin_bottom = 44.0
+
+[node name="Hp" type="Label" parent="HBoxContainer/Stats/Stat Values"]
+margin_right = 16.0
+margin_bottom = 14.0
+text = "10"
+
+[node name="Mana" type="Label" parent="HBoxContainer/Stats/Stat Values"]
+margin_top = 18.0
+margin_right = 16.0
+margin_bottom = 32.0
+text = "10"
+
+[node name="Buttons" type="GridContainer" parent="HBoxContainer"]
+margin_left = 70.0
+margin_right = 184.0
+margin_bottom = 44.0
+rect_pivot_offset = Vector2( -155.464, -432.412 )
+columns = 2
+
+[node name="Attack" type="Button" parent="HBoxContainer/Buttons"]
+margin_right = 52.0
+margin_bottom = 20.0
+custom_colors/font_color_hover = Color( 0, 0, 0, 1 )
+text = "Attack"
+
+[node name="Defend" type="Button" parent="HBoxContainer/Buttons"]
+margin_left = 56.0
+margin_right = 114.0
+margin_bottom = 20.0
+text = "Defend"
+
+[node name="Items" type="Button" parent="HBoxContainer/Buttons"]
+margin_top = 24.0
+margin_right = 52.0
+margin_bottom = 44.0
+text = "Items"
+
+[node name="Flee" type="Button" parent="HBoxContainer/Buttons"]
+margin_left = 56.0
+margin_top = 24.0
+margin_right = 114.0
+margin_bottom = 44.0
+text = "Flee"
