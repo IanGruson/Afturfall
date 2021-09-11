@@ -11,7 +11,21 @@ Bountiful Bits by VEXED : https://v3x3d.itch.io/bountiful-bits
 Bit Bonanza by VEXED : https://v3x3d.itch.io/bit-bonanza
 
 # Scénario ? 
-Plutôt dark fantasy isekai, ou isekai et de la science-fiction.
+Fantaisy / Dark fantaisy
+
+- Concept du personnage avec un système d'auto guide/ou de quelque chose permettant de le rendre
+  plus fort que l'humain lambda.
+
+Le personnage commence dans notre ère actuelle (XXIème siècle), puis se fait téléporter
+dans un monde fantaisy. Le monde possède son propre lore, ses propres intrigues politique (par rapport aux royaumes),
+son propre fonctionnement (par exemple la chasse aux monstres est devenu monnaie courante, pour cela il faut engager ce 
+qu'on appel des "aventuriers" qui sont des chasseurs de monstre ou des mercenaires classés du rang D à SS).
+
+Lore : Monstre basique vu dans les différentes mythologie (Orc, haut-elfe, dryade, loup-garou, etc etc..)
+Royaume : Structure différentes pour chaque Royaume ( Le Royaume de Kamelot sera le premier royaume que le personnage visitera )
+
+Afturfall 2 --
+Plutôt dark fantasy isekai, ou isekai.
 
 - Concept du personnage surpuissant qui se lance des défis, ou qui a une
   condition qui le pénalise dans ses combats.
@@ -33,7 +47,8 @@ un passé alternatif où existe dragons, goblins, elfes ainsi que d'autres
 créatures mystiques (potentiellement des monstre non occidentaux)... Ce monde
 qui constitue une nette rétrogradation par rapport à la réalité hors du
 cyber-espace permet à ses occupants de renouer avec leurs instincts et de vivre
-une aventure exaltante. 
+une aventure exaltante. -- Fin Afturfall 2
+
 
 ## Questions
 Qui fédère le logiciel ? Comment ? 
